@@ -1219,20 +1219,4 @@ a:hover {
 //--//-->   BUTTON
 ======================================*/
 
-.skill-list li {
-  background-color: #f2f2f2;
-  border-radius: 5px;
-  padding: 5px 10px;
-  margin-right: 10px;
-  margin-bottom: 10px;
-  font-size: 14px;
-  font-weight: bold;
-}
 
-.skill-list {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-}
